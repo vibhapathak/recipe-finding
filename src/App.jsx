@@ -4,7 +4,7 @@ import {BrowserRouter as Router,
  
 } from 'react-router-dom';
 import Signup from "./Signup"
-import MajorPage from "./majorpage"
+import MajorPage from "./Majorpage"
 import Nextpage from './Nextpage';
 import React from "react";
 
